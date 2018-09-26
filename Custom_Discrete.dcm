@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FDC021N30
+D N-channel PowerTrench MOSFET
+K FET, N-Channel, MOSFET, Trench
+F https://www.mouser.in/datasheet/2/308/FDC021N30-1119132.pdf
+$ENDCMP
+#
+#End Doc Library
