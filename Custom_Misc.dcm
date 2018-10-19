@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Songle-SRD
+D Songle SRD Sugarcube Relay
+K Songle, Relay, SRD, Sugarcube
+F https://www.mycomkits.com/reference/Songle_SRD(T73)_Relay.pdf
+$ENDCMP
+#
+#End Doc Library
