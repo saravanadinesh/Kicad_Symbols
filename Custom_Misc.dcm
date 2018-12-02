@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MP2315_DCDC_Board
+D DC to DC converter, Switching regulator board, 4.5~24Vin, 0.8-17Vout, 3A
+K DC-DC, Switching regulator, MP2315
+F https://www.aliexpress.com/item/Ultra-Small-Size-DC-DC-Step-Down-Power-Supply-Module-3A-Buck-Converter-Adjustable-1-8V/32880983608.html?ws_ab_test=searchweb0_0,searchweb201602_5_10065_10068_319_10059_10884_317_10887_10696_100031_321_322_10084_453_10083_454_10103_10618_10307_537_536,searchweb201603_51,ppcSwitch_0&algo_expid=47a5696e-0ed0-4c22-9de8-635d961a37d2-0&algo_pvid=47a5696e-0ed0-4c22-9de8-635d961a37d2
+$ENDCMP
+#
 $CMP Songle-SRD
 D Songle SRD Sugarcube Relay
 K Songle, Relay, SRD, Sugarcube
