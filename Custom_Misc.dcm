@@ -6,6 +6,12 @@ K DC-DC, Switching regulator, MP2315
 F https://www.aliexpress.com/item/Ultra-Small-Size-DC-DC-Step-Down-Power-Supply-Module-3A-Buck-Converter-Adjustable-1-8V/32880983608.html?ws_ab_test=searchweb0_0,searchweb201602_5_10065_10068_319_10059_10884_317_10887_10696_100031_321_322_10084_453_10083_454_10103_10618_10307_537_536,searchweb201603_51,ppcSwitch_0&algo_expid=47a5696e-0ed0-4c22-9de8-635d961a37d2-0&algo_pvid=47a5696e-0ed0-4c22-9de8-635d961a37d2
 $ENDCMP
 #
+$CMP SIM800L
+D Sim800L 2G Board
+K 2G, Mobile Communications
+F http://simcomm2m.com/en/module/detail.aspx?id=138
+$ENDCMP
+#
 $CMP Songle-SRD
 D Songle SRD Sugarcube Relay
 K Songle, Relay, SRD, Sugarcube
